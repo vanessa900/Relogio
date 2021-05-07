@@ -1,0 +1,22 @@
+
+#principal{
+    width: 480px;
+    height: 480px;   
+    border-radius: 60%;
+    background: rgba(5, 5, 107, 0.616);
+    margin: 90px auto;
+    background: url(imagens/noite2.png)
+
+ 
+
+}
+#relogio{
+    
+    text-align: center;
+    font-size: 80px;
+    color: rgba(255, 255, 0, 0.829);
+    padding: 170px 5px 5px 5px;
+    margin: auto;
+} 
+
+    
